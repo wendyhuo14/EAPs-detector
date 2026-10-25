@@ -1,0 +1,5 @@
+numpy>=2.5,<3
+pandas>=3.0,<4
+matplotlib>=3.11,<4
+scipy>=1.18,<2
+pyabf>=2.3.8,<3
